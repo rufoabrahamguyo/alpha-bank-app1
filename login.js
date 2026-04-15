@@ -1,1 +1,3 @@
-function scanFingerprint() { return true;//Dummy logic }
+function scanFingerprint()
+{ return true;//Dummy logic 
+}
